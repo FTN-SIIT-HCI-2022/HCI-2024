@@ -6,6 +6,7 @@ Primeri u Figmi
   <li> <a href="https://www.figma.com/file/BqF0uALbcstej5GzcS7hgf/g-1?type=design&node-id=0%3A1&mode=design&t=spknMIqszoo4xhuM-1">Kartice i tabela </a> </li>
   <li><a href="https://www.figma.com/design/RpE3w8OhZc02IKep5164ZW/UI-Elementi?node-id=0%3A1&t=41dKJlbuHJ8BmASM-1">UI Elementi i Forma  1</a> </li>
   <li><a href="https://www.figma.com/design/ulKzEjC62SFlAJ61eNqG9n/UI-Element-2?node-id=0%3A1&t=RGSTokjdYSMbl0QH-1"> UI Elementi i Forma 2 </a></li>
+  <li><a href="https://www.figma.com/design/4qzDOiPXhU5qDsTDJLWDbt/interactions-and-variable?node-id=0-1&t=OSqaTCxH2foOlHVl-0"> Interakcija, promenljive i uslovi </li>
 </ul>
 
 <br/>
